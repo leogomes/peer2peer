@@ -9,6 +9,6 @@ To be completed.
 
 The funniest part of this project was doing it in a non-blocking and asynchronous way. We had a lot of fun reading Steven's Unix Networking Programming as well. Good times :)
 
-I wrote it mainly with [Gustavo Nasu](br.linkedin.com/pub/gustavo-nasu/7/895/645).
+I wrote it mainly with [Gustavo Nasu](https://github.com/gustavonasu).
 
-Ricardo Lilenbaum and Fabio Sarmento also participated to the group and to some discussions/coding, but the bulk of their contribution was more linked to the presentation and document we wrote about it. 
+Ricardo Lilenbaum and Fabio Sarmento also participated to the group and to some discussions/coding, but the bulk of their contribution was more linked to the presentation and document we wrote about it.
